@@ -1,0 +1,4 @@
+.bar { fill: #1f77b4; }
+        .bar:hover { fill: #3498db; }
+        .axis-label { font-size: 12px; }
+        .chart-title { font-size: 16px; text-anchor: middle; }
